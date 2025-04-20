@@ -1,0 +1,3 @@
+
+- name: Include OS patching
+  import_playbook: os/os_patch.yaml
